@@ -34,9 +34,18 @@ Os projetos são apresentados como Repositórios, Notebooks, Pacotes, Dashboards
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)  
 
+## :chart_with_downwards_trend: Séries temporais
+
+- [Simulação de valores ausentes em séries temporais de precipitação para avaliação de métodos de imputação](https://doi.org/10.55761/abclima.v30i18.15243)  
+**Descrição:** Comparação de métodos multivariados de imputação em séries temporais de precipitação pluviométrica usando simulação.  
+![DOI](https://img.shields.io/badge/DOI-10.55761/abclima.v30i18.15243-B31B1B.svg?style=for-the-badge)
+
+- [Combinação de preditores de séries temporais](https://rpubs.com/rubensocj/combination-of-forecasts)  
+**Descrição:** Técnicas de ensemble são usadas para previsão de uma série temporal do número de mortes decorrentes de doenças no pulmão registradas no Reino Unido.  
+![Rpubs](https://img.shields.io/badge/Pubs-RPubs.com-orange.svg?style=for-the-badge&labelColor=white&logo=RStudio&logoColor=blue)
+
 ## :package: Desenvolvimento de pacotes
 
 - [hidrotsbr: Process hydrological time series data of Brazil](https://github.com/rubensocj/hidrotsbr)  
 **Descrição:** O pacote fornece ferramentas para automatizar o processo de importação, limpeza e tratamento de dados de diferente serviços hidrológicos do Brasil. Atualmente, o pacote contém funções para dados do Serviço Geológico do Brasil (CPRM) e da Funcação Cearense de Meteorologia (FUNCEME).  
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
