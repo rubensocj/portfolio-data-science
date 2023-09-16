@@ -52,6 +52,13 @@ Estudo de caso realizado para o curso Google Data Analytics Professional Certifi
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=R&logoColor=white)
 ![Rpubs](https://img.shields.io/badge/RPubs-orange.svg?style=flat&logo=R&logoColor=white)
 
+## :globe_with_meridians: Web Scrapping
+
+- [Coletando vagas de emprego usando Web Scraping em Python](https://colab.research.google.com/drive/1rtJJgzuDguRzd55BvsWDLVLxjWL8vklS?usp=sharing)  
+**Descrição:** Script simples usando técnicas de Web Scrapping para coletar informações sobre vagas de emprego de um portal da internet.  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-flat&logo=python&logoColor=blue)
+![Kaggle](https://img.shields.io/badge/Colab-525252?style=for-the-flat&logo=googlecolab&logoColor=F9AB00)
+
 ## :package: Desenvolvimento de pacotes
 
 - [hidrotsbr: Process hydrological time series data of Brazil](https://github.com/rubensocj/hidrotsbr)  
