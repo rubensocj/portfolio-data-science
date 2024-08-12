@@ -6,13 +6,13 @@ Os projetos são apresentados como Repositórios, Notebooks, Pacotes, Dashboards
 ## :bar_chart: Visualização de Dados
 
 - [Visualização dinâmica de dados de casos de dengue no estado do Ceará](https://rubensocj.shinyapps.io/dengue-ce/)  
-**Descrição:** Aplicação Shiny para visualização de dados de casos de dengue nos municípios do estado do Ceará, obtidos da Secretaria da Saúde (SESA) pelo portal IPECEDATA.  
+**Descrição:** Aplicação Shiny em R para visualização de dados de casos de dengue nos municípios do estado do Ceará, obtidos da Secretaria da Saúde (SESA) pelo portal IPECEDATA.  
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=R&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-white?style=flat&logo=RStudio&logoColor=blue)
 
-- [Online ML Classifier](https://rubensocj.shinyapps.io/online-ml-classifier/)  
-**Descrição:** Aplicação Shiny para classificação estatística usando diversos algoritmos de aprendizado de máquina supervisionado, tais como Support Vector Regression, Naive Bayes, k-Nearest Nerighbors, Decision Trees e Random Forest.  
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=R&logoColor=white)
+- [Visualização dinâmica de séries temporais de temperatura](https://rubensocj.shinyapps.io/series-temp/)  
+**Descrição:** Aplicação Shiny em Python para análise exploratória de séries temporais mensais de temperatura em algumas capitais do Brasil.  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-flat&logo=python&logoColor=blue)
 ![Shiny](https://img.shields.io/badge/Shiny-white?style=flat&logo=RStudio&logoColor=blue)
 
 ## :chart_with_upwards_trend: Análise de Dados
